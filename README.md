@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jinxu518">
-    <img src=https://github.com/jinxu518/jinxu518/blob/main/githubprofile.jpg alt="Jinxu Zheng" /></a>
+    <img src=https://github.com/jinxu518/jinxu518.github.io/blob/main/githubprofile.jpg alt="Jinxu Zheng" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
