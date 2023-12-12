@@ -12,8 +12,7 @@
 </p>
 
 ## Jinxu Zheng
-Greetings! I'm Jinxu, a dynamic and versatile Full Stack Software Engineer. I am experienced with extensive spectrum of technologies, from frontend  encompassing wireframing, to crafting robust and scalable backend solutions
-
+Greetings! I'm Jinxu, I Skilled Full Stack Java Developer with 3 years of professional experience developing enterprise applications across diverse sectors including healthcare and environment in fast-paced, deadline-driven environments through all phases of the software development life cycle. Advanced expertise in troubleshooting applications, optimizing code quality, and maximizing application performance. Hands-on skill in back-end design and system architecture, with technical expertise in Java, JavaScript, Vue, React, Spring, HTML, and REST.
 ## Skills and Experience
 * Java
 * * Spring, Spring boot, Hibernate,Mybatis-plus
